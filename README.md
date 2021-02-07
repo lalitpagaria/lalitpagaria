@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lalitpagaria/">
-    <img height="30" width="30" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  &thinsp;
   <a href="https://github.com/lalitpagaria/obsei">
     Check Obsei
   </a>
