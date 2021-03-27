@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/lalitpagaria/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Welcome to my profile. I have extensive experience in designing highly-scalable distributed systems. I worked as a backend developer, SRE, IAM Engineer and Kernel developer. Currently I learning NLP domain with help from vast open community.
+I am techie with extensive experience in designing highly-scalable distributed systems. I worked as a backend developer, SRE, IAM Engineer and Kernel developer. Currently I learning NLP domain with help from vast open community.
 
 
 My open source contribution includes -
