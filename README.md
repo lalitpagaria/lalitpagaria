@@ -8,9 +8,9 @@ I am techie with extensive experience in designing highly-scalable distributed s
 
 
 My open source contribution includes -
-- [**Obsei**](https://github.com/lalitpagaria/obsei): I am inventor and maintainer of Obsei. Obsei is intended to be a workflow automation tool for text segmentation need. Obsei can help any organization in creation of NLP powered end to end workflow which can ease their customer engagement.
-- [**Haystack**](https://github.com/deepset-ai/haystack): I am active member of haystack community. Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
-- [**Transformers**](https://github.com/huggingface/transformers): I raised few PRs and issue on this repo. Transformers is state-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
-- [**App Store Review Crawler**](https://github.com/lalitpagaria/app_store_reviews_reader): I wrote this tool to fetch app store reviews from publicly available RSS feeds.
-- [**Reddit Crawler**](https://github.com/lalitpagaria/reddit-rss-reader): I wrote this tool. It is a wrapper around publicly/privately available Reddit RSS feeds. It can be used to fetch content from front page, subreddit, all comments of subreddit, all comments of a certain post, comments of certain reddit user, search pages and many more.
-- [**PYPI Stats Graphs Generator**](https://github.com/lalitpagaria/pypi-stats-graphs): It is work in progress tool intended to generate various graphs from PYPI downloads stats data (to query stats data from google-cloud-bigquery instead of getting them via api)
+- [**Obsei**](https://github.com/lalitpagaria/obsei) (**Creator**): Obsei is intended to be a workflow automation tool for text segmentation need. Obsei can help any organization in creation of NLP powered end to end workflow which can ease their customer engagement.
+- [**Haystack**](https://github.com/deepset-ai/haystack) (**Maintainer**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
+- [**Transformers**](https://github.com/huggingface/transformers) (**Contributor**): I raised few PRs and issue on this repo. Transformers is state-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [**App Store Review Crawler**](https://github.com/lalitpagaria/app_store_reviews_reader) (**Creator**): Tool to fetch app store reviews from publicly available RSS feeds.
+- [**Reddit Crawler**](https://github.com/lalitpagaria/reddit-rss-reader) (**Creator**):It is a wrapper around publicly/privately available Reddit RSS feeds. It can be used to fetch content from front page, subreddit, all comments of subreddit, all comments of a certain post, comments of certain reddit user, search pages and many more.
+- [**PYPI Stats Graphs Generator**](https://github.com/lalitpagaria/pypi-stats-graphs) (**Creator**): It is work in progress tool intended to generate various graphs from PYPI downloads stats data (to query stats data from google-cloud-bigquery instead of getting them via api)
