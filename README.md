@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/lalitpagaria/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-I am co-founder at [Oraika Technologies](https://www.oraika.com) which is based on our open-source tool [Obsei](https://github.com/lalitpagaria/obsei). I have extensive experience in designing highly-scalable distributed systems. I worked as a backend developer, SRE, IAM Engineer and Kernel developer. Currently I learning NLP domain with the help from vast open community.
+I am co-founder at [Oraika Technologies](https://www.oraika.com) which is based on our open-source tool [Obsei](https://github.com/obsei/obsei). I have extensive experience in designing highly-scalable distributed systems. I worked as a backend developer, SRE, IAM Engineer and Kernel developer. Currently I learning NLP domain with the help from vast open community.
 
 
 My open source contribution includes -
-- [**Obsei**](https://github.com/lalitpagaria/obsei) (**Creator**): Obsei is intended to be a workflow automation tool for text analysis need. Obsei can help any organization in creation of NLP powered end to end workflow which can ease their customer engagement.
+- [**Obsei**](https://github.com/obsei/obsei) (**Creator**): Obsei is intended to be a workflow automation tool for text analysis need. Obsei can help any organization in creation of NLP powered end to end workflow which can ease their customer engagement.
 - [**Haystack**](https://github.com/deepset-ai/haystack) (**Community Maintainer**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
 - [**Transformers**](https://github.com/huggingface/transformers) (**Contributor**): I raised few PRs and issue on this repo. Transformers is state-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [**App Store Review Crawler**](https://github.com/lalitpagaria/app_store_reviews_reader) (**Creator**): Tool to fetch app store reviews from publicly available RSS feeds.
